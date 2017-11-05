@@ -1,0 +1,8 @@
+{
+	"name": "nodejs-helloworld",                                              
+	"version": "1.0.0",                                                           
+	"description": "An example node.js hello world server",                       
+	"main": "helloworld.js",                                                           
+	"author": "Alex Gonzalez <alex@lindusembedded.com>",                          
+	"license": "ISC"                                                              
+}
